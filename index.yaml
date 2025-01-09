@@ -17,8 +17,16 @@ template:
   #   note:
   #     containerClass: container mx-auto max-w-screen-lg
 
-  sidebar:
-    collapsed: false
+  uptree: 
+    enable: true
+  sidebar: 
+    enable: false
+  breadcrumbs: 
+    enable: false
+  toc:
+    enable: false
+  base:
+    containerClass: container mx-auto max-w-screen-md text-sm
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
