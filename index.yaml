@@ -26,7 +26,7 @@ template:
   toc:
     enable: false
   base:
-    containerClass: container mx-auto max-w-screen-md text-sm
+    containerClass: container mx-auto max-w-screen-lg
 
   # If you are hosting on GitLab Pages, you may want to remove this.
   urlStrategy: pretty
